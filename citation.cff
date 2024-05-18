@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Koutsogiannakis
+    given-names: Panagiotis
+    orcid: https://orcid.org/0000-0002-9245-5007
+  - family-names: Papathanasiou
+    given-names: Theodosios K.
+    orcid: https://orcid.org/0000-0003-2130-5172
+  - family-names: Dal Corso
+    given-names: Francesco
+    orcid: https://orcid.org/0000-0001-9045-8418
+title: "A simple matlab code for structures with moving boundaries using ALE-FEM"
+url: https://github.com/pkouts/ale-fem-rod
+date-released: 2024-05-18
