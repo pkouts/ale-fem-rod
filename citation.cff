@@ -10,6 +10,6 @@ authors:
   - family-names: Dal Corso
     given-names: Francesco
     orcid: https://orcid.org/0000-0001-9045-8418
-title: "A simple matlab code for structures with moving boundaries using ALE-FEM"
+title: "A simple ALE-FEL code in Matlab for structures with moving boundaries"
 url: https://github.com/pkouts/ale-fem-rod
 date-released: 2024-05-18
