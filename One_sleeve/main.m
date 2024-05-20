@@ -20,7 +20,7 @@ sp.l0_t = 0;  % Initial rate of change of external length (-v1)
 
 sp.tmax = 1;  % Max time for simulation
 sp.dt = 5e-4; % timestep size
-sp.Nel = 32;  % Number of eleemts
+sp.Nel = 32;  % Number of elements
 
 sp.max_iteration = 100; % Max number of iterations for the Newton-Raphson solver
 
@@ -48,7 +48,6 @@ t_prev = 0;
 
 sp.map = setup_maps(sp.Nel);
 sp.nodes = linspace(0,1,sp.Nel+1);
-
 
 [U, Up, Upp] = initialize_dofs(t, sp);
 Uinit = U;
